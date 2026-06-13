@@ -198,6 +198,14 @@ Worked on an AI solution for farmers, building predictive systems that addressed
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yadeesht/Yadeesht/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
