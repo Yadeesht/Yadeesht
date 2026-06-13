@@ -30,7 +30,6 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Yadeesht&icon=0&color=6" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Yadeesht?label=Followers&style=for-the-badge&color=7C3AED&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Stars-Open%20Source%20Focus-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
 </div>
@@ -54,15 +53,22 @@ I enjoy agentic systems, LLM orchestration, RAG pipelines, and ML models that so
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,c,java,cpp,r" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+### AI / ML / Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" />
+</p>
 
 ### Backend & Databases
 <img src="https://skillicons.dev/icons?i=fastapi,docker,mysql,postgres,sqlite,github" />
 <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
 
-### AI / ML / Data
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,numpy,matplotlib" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
 </div>
 
 ---
@@ -97,7 +103,7 @@ It also integrates a dual-layer memory stack with Episodic RAG and a KuzuDB know
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| LangGraph, MCP-style orchestration, RAG, KuzuDB, Docker, Faster-Whisper, Piper | Multi-tool autonomous workflow system | Low-latency voice + hierarchical routing | Isolated Docker sandbox | Demonstrates agentic workflow automation and durable memory | Private / Available on request |
+| LangGraph, MCP-style orchestration, RAG, KuzuDB, Docker, Faster-Whisper, Piper | Multi-tool autonomous workflow system | Low-latency voice + hierarchical routing | Isolated Docker sandbox | Demonstrates agentic workflow automation and durable memory | <a href="https://github.com/Yadeesht?tab=repositories">GitHub</a> |
 
 </div>
 </details>
@@ -113,7 +119,7 @@ The response layer is integrated with the Google Gemini API to provide clean, un
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| RAG, Gemini API, custom retriever, resume/project knowledge base | Personal portfolio assistant | Fast contextual retrieval | Scoped document access | Improves visitor experience and surfaces project information instantly | Private / Available on request |
+| RAG, Gemini API, custom retriever, resume/project knowledge base | Personal portfolio assistant | Fast contextual retrieval | Scoped document access | Improves visitor experience and surfaces project information instantly | <a href="https://github.com/Yadeesht?tab=repositories">GitHub</a> |
 
 </div>
 </details>
@@ -129,7 +135,7 @@ I also added attention visualization to improve interpretability and support tra
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| PyTorch, Vision Transformer, HAM10000, attention visualization | 7-class medical image classifier | 82.04% training accuracy, 88.14% validation accuracy | Dataset-driven, research-oriented workflow | Strong proof of deep learning and interpretability skills | Private / Available on request |
+| PyTorch, Vision Transformer, HAM10000, attention visualization | 7-class medical image classifier | 82.04% training accuracy, 88.14% validation accuracy | Dataset-driven, research-oriented workflow | Strong proof of deep learning and interpretability skills | <a href="https://github.com/Yadeesht?tab=repositories">GitHub</a> |
 
 </div>
 </details>
@@ -145,7 +151,7 @@ I worked on building and optimizing predictive ML models for agricultural decisi
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Machine learning, data-driven decision support, stakeholder collaboration | Real-world agricultural use case | Reliability-focused model design | Responsible handling of domain data | Practical AI with direct social utility | Private / Available on request |
+| Machine learning, data-driven decision support, stakeholder collaboration | Real-world agricultural use case | Reliability-focused model design | Responsible handling of domain data | Practical AI with direct social utility | <a href="https://github.com/Yadeesht?tab=repositories">GitHub</a> |
 
 </div>
 </details>
@@ -192,45 +198,6 @@ Worked on an AI solution for farmers, building predictive systems that addressed
 
 ---
 
-## Certifications
-
-<div align="center">
-
-### AWS
-<img src="https://img.shields.io/badge/Not%20publicly%20listed-5B21B6?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Not%20publicly%20listed-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/Not%20publicly%20listed-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Not%20publicly%20listed-3730A3?style=for-the-badge&logo=cisco&logoColor=white" />
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Algorithms-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -244,26 +211,10 @@ Worked on an AI solution for farmers, building predictive systems that addressed
 
 ---
 
-## GitHub Trophies
+## GitHub Summary Card
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yadeesht&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadeesht&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yadeesht/Yadeesht/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yadeesht&theme=tokyonight" width="100%" />
 </div>
 
 ---
