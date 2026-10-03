@@ -158,7 +158,7 @@ I worked on building and optimizing predictive ML models for agricultural decisi
 ## Experience
 
 ### Software Development Engineer (SDE) Intern — NEXROVA TECHNOLOGIES PVT LTD
-**March 2025 – Present | Hybrid**
+**March 2026 – July 2026 | Hybrid**
 
 Working on scalable backend features and AI orchestration systems, with a strong emphasis on performance, modularity, and production maintainability.
 
