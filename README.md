@@ -18,9 +18,6 @@
   <a href="https://github.com/Yadeesht?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yadeesh-t-259640288">
-    <img src="https://img.shields.io/badge/LinkedIn-Yadeesh%20T-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:tyadeesh@gmail.com">
     <img src="https://img.shields.io/badge/Email-tyadeesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -265,9 +262,6 @@ Worked on an AI solution for farmers, building predictive systems that addressed
 <div align="center">
   <a href="mailto:tyadeesh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-tyadeesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yadeesh-t-259640288">
-    <img src="https://img.shields.io/badge/LinkedIn-Yadeesh%20T-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Yadeesht">
     <img src="https://img.shields.io/badge/GitHub-Yadeesht-111827?style=for-the-badge&logo=github&logoColor=white" />
